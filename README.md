@@ -41,8 +41,6 @@ int game(char you, char computer)
 	else if (you == 'z' && computer == 'p')
 		return 1;
 }
-
-// Driver Code
 int main()
 {
 	// Stores the random number
